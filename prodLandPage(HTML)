@@ -1,0 +1,112 @@
+
+
+<html lang="en">
+<title>Holley Dominator EFI System</title>
+<link rel="stylesheet" href="">
+  
+  
+<div id="page-wrapper">
+     <header id="header">
+       <div class="logo">
+         <a href="https://www.holley.com/products/fuel_systems/fuel_injection/dominator_efi/">
+            <img id="header-img"
+                 src="https://i.imgur.com/zgZeN6x.png" width="65%" alt="Holley Inc. Logo"/></a>
+         </div>
+       
+<nav id="nav-bar" class="navbar">
+  <ul>
+    <li><a class="nav-link" id="navbar-fixed-top" href="#features">Features</a></li>
+    <li><a class="nav-link" id="navbar-fixed-top" href="#components">Components</a></li>
+    <li><a class="nav-link" href="#News-and-updates">News & Updates</a></li></ul></nav></header><br></br>
+  
+<body>
+
+
+<div id="content" class="hero">
+  <h1 id="h1"><u><i>Holley Dominator - Revolutionizing the Aftermarket EFI World</i></u></h1>
+</div>
+<div>
+  <a href="https://www.holley.com/products/fuel_systems/fuel_injection/dominator_efi/dominator_ecu/parts/554-114">
+  <img id="ecu" src="https://images.holley.com/x220/dominatorefi_nav.png" alt="Holley Dominator ECU" class="column">
+  </a></img>
+  <a href="https://www.holley.com/products/fuel_systems/fuel_injection/holley_efi_v5/parts/V5">
+    <img id="v5" src="https://images.holley.com/583x/v5256x25618158.png" alt="Holley V5" class="column" width="25%"></a></img><br></br></div>
+
+<div id="body2" class="boxed">
+  <h2 id="h2"><i><b>DOMINATOR EFI</b></i></h2>
+  <p id="p2">The new standard in EFI with virtually unlimited capabilities! Integrated electronic transmission control, drive by wire throttle control, dual wideband oxygen sensor capability, extensive amount of inputs and outputs for various combinations, and much more.</p></div>
+
+<div>
+  <img id="diagram" src="https://i.imgur.com/3o9IXq9.png" alt="Holley Dominator Wiring Diagram"></div>
+
+<div>
+  <h3 id="h3"><u>FEATURES</u></h3>
+  <a class="nav-link" href="#features"></a>
+  <ul id="features">
+    <li>• EFI with virtually unlimited capabilities!</li>
+    <li>• Easy to use intuitive software!</li>
+    <li>• Controls, fuel, spark, electronic transmissions, drive by wire TBs, nitrous, boost, water meth and more!</li>
+    <li>• Extensive datalogging capabilities!</li>
+    <li>• Massive amount of programmable inputs and outputs!</li><br></br></div>
+
+<div id=components>  
+  <h4 id="h4"><u><i><b>Components</b></i></u></h4>
+
+
+<div>
+  <p id="h5"><u>Dominator EFI ECU</u></p>
+  <p id="p4">• Works with Chrysler, GM, and Ford engines<br></br>
+• Operates GM 4L60E and 4L80E transmissions, Ford AODE and 4R70W<br></br>
+• Allows for use of common OEM sensors as well as custom sensor calibration input<br></br>
+<br></br></p>
+<p id="price"><b><u>$2,172.95</u></b></p></div>
+
+  <p id="h6"><u>Dominator Wiring Harness</u></p>
+  <p id="p5">• Works with GM LS1/6 Series Engines from 1997 through 2004<br></br>
+• Works with both HP EFI and Dominator EFI systems<br></br>
+• Interfaces with 24x Crank and 1x Cam sensors</p>
+<p id="price2"><b><u>$449.95</u></b></p>
+  
+<p id="h7"><u>Injector Driver Module</u></p>
+<p id="p6">• 
+Engineered specifically to add a secondary set of high peak current injectors when utilizing a Holley EFI Dominator ECU<br></br>
+• Eight easily programmable channels for precise injector control<br></br>
+• Eight pre-programmed injector current curves<br></br></p>
+<p id="price3"><b><u>$384.95</u></b></p>
+ 
+<p id="h8"><u>Holley EFI 12.3" Pro Dash</u></p>
+<p id="p7">• Capable of monitoring up to 238 real-time values such as RPM/TPS/Boost<br></br>
+• Expandable storage via USB<br></br>
+• Quickly swipe between multiple active screens (tune, warm-up, race, drive, etc.)<br></br></p>
+<p id="price4"><b><u>$1,853.95</u></b></p></div><br></br>
+
+<div>
+  <a class="nav-link" href="#News-and-updates"></a>
+  <p id="hfinal"><u><b>News & Updates</b></u><br></br>
+  <p id="pfinal">Enter your email below for the newest offers, products, and updates from Holley.</p><br></br></div>
+
+<div>
+<form id="form" action="https://www.freecodecamp.com/email-submit">
+      <input
+        name="email"
+        id="email"
+        type="email"
+        placeholder="Enter your email address"
+        required
+      />
+      <input id="submit" type="submit" value="Get Started" class="btn" />
+  </form><br></br></div>
+
+<div>
+  <iframe id=video width="560" height="315" src="https://www.youtube.com/embed/pEqcCIG9Tr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  
+<img id="final" src="https://iconape.com/wp-content/png_logo_vector/holley-perf-prod.png"></img>
+
+
+<div class=footer>
+  <p>® Copyright 2021 Holley Performance Products, Inc.</p>
+  
+  
+
+</body>
+</html>
