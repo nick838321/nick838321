@@ -1,0 +1,29 @@
+<html lang="en">
+<title id="title">Dale Earnhardt, Sr. Tribute Page</title>
+
+
+<body id="body"> 
+<main id="main">
+  <div id="img-div">
+    <h1 id="title"><u>Dale Earnhardt, Sr.</u></h1>
+    <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DaleEarnhardtSunglassesDriversSuit.jpg/1024px-DaleEarnhardtSunglassesDriversSuit.jpg" alt="Dale Earnhardt, Sr." style="width:100%">
+    <figcaption id="img-caption">Dale Earnhardt, Sr. on the starting grid prior to the opening ceremonies of a race.</figcaption>
+    <br></br>
+  <h2 id="h2"> The Life and Legacy of Dale Earnhardt, Sr.</h2><br></br>
+  <p id="p1"><b><u>1951:</u></b> Dale Earnhardt, Sr. was born in Kannapolis, NC to Martha and Ralph Earnhardt. He was the 3rd child of the couple and had four siblings: two brothers, Danny and Randy, and two sisters, Cathy and Kaye. His father, Ralph, is revered as one of the best short-track racers of his time, and raced and won features across many tracks in the southeast, including Greenville-Pickens Speedway and Hickory Motor Speedway.</p><br></br>
+  <p id="p1"><b><u>1968:</u></b> Dale Earnhardt, Sr. married his first wife, Latane Brown, at age 17. Together, they raised Dale’s oldest son, Kerry Earnhardt. In 1970, the couple split and Earnhardt would remarry in 1971, to Brenda Gee, who he would have Kelley and Dale Earnhardt, Jr with prior to their divorce in 1974.</p><br></br>
+
+<p id="p1"><b><u>1975-1978:</u></b> Earnhardt made his Cup Series debut in 1975 at Charlotte Motor Speedway, driving for Ed Negre. He only competed in eight more races until 1979.</p><br></br>
+
+<p id="p1"><b><u>1979-2000</u></b>: Earnhardt, driving for Rod Osterlund Racing at the time, won one race (Bristol Motor Speedway), captured four pole awards, scored eleven top-5’s and 17 top-10’s and finished 7th in the points despite missing four races due to a broken collarbone. He also went on to win rookie of the year honors in 1979. In 1980, Earnhardt won his first title, the first driver to do so following their rookie season. From 1982-1983, Earnhardt drove Bud Moore’s #15 Thunderbird through a tough season that involved him breaking his kneecap and went on to finish 8th in the points in ’83 following a dismal 12th place finish in the points in 1982. In 1984, he returned to Richard Childress racing, where he would continue on to win 6 more championships and tens of races in the black GM Goodwrench Chevrolet he is most famously remembered for.</p><br></br>
+
+<p id="p1"><b><u>2001:</u></b> At the 2001 Daytona 500, Dale Earnhardt spun out and hit the turn 4 retaining wall on the last lap head-on, which resulted in a basilar-skull fracture. At this time in the sport, the HANS device was being used more and more, both in NASCAR and other forms of motorsports. Earnhardt, at the time, had previously refused to use the device even though he had suffered from a neck injury a few years prior. Following his passing, NASCAR implemented rigorous safety measures, including full-face helmets, mandatory usage of the HANS device across all levels of NASCAR competition, and eventually a new generation of car (codenamed the “Car of Tomorrow”) which had an improved roll cage structure, side door crash padding, a larger greenhouse to provide the driver with more headroom, and an overall much sturdier frame and subframe construction designed to absorb impacts rather than crumple and pass the crash force on to the driver’s body.</p><br></br>
+
+<p id="p1"><b><u>Legacy:</u></b> Dale Earnhardt, Sr. is revered as an icon of American culture even to this day and considered by many NASCAR fans to be the greatest driver to ever compete in the sport. Since his passing, fans to this day continue to show up to Dale Earnhardt Incorporated, his former race shop in Mooresville, North Carolina to purchase licensed merchandise and view his legacy and memorabilia similar to that of a sports hall of fame. To this day, you will see fans show up at races across the nation still bearing Earnhardt and #3 merchandise, flags, t-shirts, and other apparel, showing that his impact on the sport is still being felt 20 years later.</p><br></br>
+
+<p id="tribute-info"><b>For more information, please visit the link below!</b></p>
+  </div>
+<a id="tribute-link" href="https://en.wikipedia.org/wiki/Dale_Earnhardt" target="_blank">Wikipedia: Dale Earnhardt</a>
+</main>
+</body>
+</html>
