@@ -1,0 +1,113 @@
+<html lang="en">  
+<nav id="navbar">
+  <header id="header"><i><b><u>Holley Dominator EFI</i></b></u>
+  <p><img id="ecu" src="https://images.holley.com/x220/dominatorefi_nav.png" alt="Holley Dominator ECU"</img></p></header>
+  <ul>
+    <section class="main-section">
+      <li><a class="nav-link" href="#Introduction">Introduction</a></li></section>
+    <section class="main-section"><li><a class="nav-link" href="#Features">Features</a></li></section>
+    <section class="main-section"><li><a class="Hardware" href="#Hardware">Hardware</a></li></section>
+    <section class="main-section"><li><a class="nav-link" href="#Data_visualization_tools">Data Visualization Tools</a></li></section>
+    <section class="main-section"><li><a class="nav-link" href="#8_stage_nitrous_oxide_control">8 Stage Nitrous Oxide Control</a></li></section>
+    <section class="main-section"><li><a class="nav-link" href="#Integrated">Integrated Water/Methanol Control</a></li></section>
+    <section class="main-section"><li><a class="nav-link" href="#inputs">Inputs & Outputs</a></li></section>
+    <section class="main-section"><li><a class="nav-link" href="#ICF">Advanced Tuning ICF</a></li></section>
+  </ul>
+  </nav>
+  
+<title>Holley Dominator EFI</title>
+
+<main id="main-doc">
+<section id="Introduction" class="main-section">
+  <header class="h1" id="Introduction"><b>Introduction</b></header>
+  <img id="header-img"        src="https://i.imgur.com/zgZeN6x.png" width="65%" alt="Holley Inc. Logo"/>
+ <p id="p1">
+   Dominator® EFI Vehicle Management Systems are intended for all engine applications, from street to unlimited high-end racing applications. In addition to the transmission control, drive by wire, and dual wideband oxygen sensor options, Dominator® systems have nearly unlimited capabilities to control any power adder, input, or output you can throw at them. Need to run a turbocharged, nitrous injected 8 cylinder running water-methanol injection? No problem with Dominator® EFI. How about control a 4L60E transmission as well as the fuel and spark on your street rod? No problem. There are also enough inputs and outputs to allow the Dominator® VMSs to serve as their own data acquisition and control module. The Dominator® VMS will eliminate the need for additional controllers as they are all contained in this one unit. The only thing limiting the Dominator® Vehicle Management System is your imagination!</p><br></br></section>
+  <section id="Features" class="main-section"><header class="h1" id="Features"><b><u>Features</u></b><header><br></br>
+    <p id="p2"><b>
+ • Works with 4, 6, 8 and 10 cylinder engines<br></br>
+    • Ignition Plug and Play with GM LS engines (non-VVT), GM HEI, Ford TFI, Coyote (non-VVT), 4.6/5.4 Mod Motor, Late Model HEMI and magnetic and hall effect trigger. Custom settings can be configured to allow for use with many other applications<br></br>
+    • Integrated electronic transmission control - Operates GM 4L60E and 4L80E transmissions, Ford AODE and 4R70W with more to come in the future<br></br>
+• Integrated drive by wire throttle body control - Can control two drive by wire throttle bodies. Compatible with a number of DBW throttle bodies including GM, Chrysler, Ford, and Nissan<br></br>
+• Integrated dual channel wide band oxygen sensor controls – For monitoring both engine banks (NTK or Bosch sensors)<br></br>
+• Extensive amount of inputs and outputs allow for limitless combination of options. Allows for unit to be used as a complete data acquisition system as well<br></br>
+• Twelve sequentially driven 8:2 peak and hold injector drivers, capable of driving up to 24 low or high impedance injectors as a standard feature. Multiple staged injector strategies<br></br>
+• Twelve channel Distributorless Ignition (DIS) outputs capable of directly driving “Smart” ignition coils or Holley DIS coils. Will drive 2 wire coils with the addition of PN 554-112 high current coil driver module<br></br>
+• Speed density, Alpha-N, Alpha-N Combination, and VE fueling strategies – Tuner has the option to select from a variety of load sensing strategies to meet their engine requirements or tuning preference<br></br>
+• Individual cylinder fuel and spark control allows you to unlock your engine’s potential<br></br>
+• Unique lb/hr based fueling strategy greatly simplifies and commonizes tuning<br></br>
+• Advanced idle, closed loop, and enrichment strategies allow for very stable engine operation<br></br>
+• 1-7 Bar MAP sensor capability – For naturally aspirated or boosted applications<br></br>
+• Fuel Map and Learn Function Smoothing – Helps to smooth rough areas of the maps<br></br>
+• Configurable User Password Protection – “Lock” your tune to prevent tampering<br></br>
+• Self-tuning fuel table strategy greatly simplifies tuning process – The more you drive it, the more it learns<br></br>
+• “Quick Start” strategies – For faster engine starting<br></br>
+• Allows for use of common OEM sensors as well as custom sensor calibration input<br></br>
+• Two channel knock control sensor inputs for both one or two wire knock sensors<br></br>
+• Dedicated fuel and oil pressure inputs<br></br>
+• Controls both stepper and PWM Idle Air Control (IAC) motors<br></br>
+• 3 Rev Limiters – Choose between 4 options for each: Fuel Only, Spark Only, Fuel and Spark, or Soft<br></br>
+• Traction Control – Allows power reduction via timing, nitrous percentage or boost (Requires Davis Technologies Holley Module)<br></br>
+• Store and select between four calibrations with Multi Map Selector (Part Number 558-407)</b></p></section><br></br>
+
+<section id="Hardware" class="main-section">
+<header id="Hardware" class="h1"><b><u>Hardware</u></b></header><br></br>
+<p id="p2"><b>
+  • ECU is fully potted and can be mounted in the engine compartment or interior – See images for dimensions<br></br>
+• Sealed automotive and marine grade connectors<br></br>
+• Optional Digital Displays - 7" Digital Dash (PN 553-106) / 3.5" Touch Screen LCD (PN 553-108)<br></br>
+• 12.3" Pro Dash (PN 553-111) and 7" Race Dash (PN 553-106) features full gauge layout customization, and nearly limitless tuning options.</b></p></section><br></br>
+
+<section id="Data-visualization-tools" class="main-section">
+<header class="h1" id="Data_visualization_tools" class="h1"><b><u>Data Visualization Tools</u></b></header><br></br>
+<p id="p2"><b>
+  • Data Logger –Analyze and export your data with sophisticated, but user friendly tools – Internal logger has 4 GB of memory<br></br>
+• Strip Chart – For real-time data viewing<br></br>
+• Fully Configurable lap top Gauge Panel – Life-like gauge cluster on your laptop screen<br></br>
+• Racepak Integration Module Available.<br></br>
+• Data logger - Smoothing, multiple graph view, pre-defined notes fields and more..</b></p></section><br></br>
+
+<section id="8-stage-nitrous-oxide-control" class="main-section">
+<header id="8_stage_nitrous_oxide_control" class="h1"><b><u>8-Stage Nitrous Oxide Control</u></b></header><br></br>
+<p id="p2"><b>
+  • Fully featured nitrous control eliminates the need for a separate nitrous controller device<br></br>
+• Can be configured “Wet” or “Dry” with closed loop feedback<br></br>
+• Progressive control based on time, RPM, or boost, requires part # 554-111<br></br>
+• Lean or rich safety cutoff<br></br>
+• Full timing retard/control configurability per stage based on RPM or time</b></p></section><br></br>
+
+<section id="Integrated" class="main-section">
+<header id="Integrated" class="h1"><b><u>Integrated Water/Methanol Injection Control</u></b></header><br></br>
+<p id="p2"><b>
+  • Fully featured boost control capability eliminates the need for a separate boost control device<br></br>
+• Can be configured to control boost based on time, gear, speed, and manual inputs<br></br>
+• Gear based boost control configurable by several different methods<br></br>
+• “Boost Builder” functions offer the ability to assist building boost on the starting line by altering ignition timing, fueling, as well as nitrous oxide activation. Can also be used as an anti-lag function</b></p></section><br></br>
+
+<section id="inputs" class="main-section">
+<header id="inputs_and_outputs" class="h1"><b><u>Inputs and Outputs</u></b></header><br></br>
+<p id="p2"><b>
+  • 13 - “Multi-Inputs” – Can be configured as a 0-5V sensor input, 0-20v sensor input, thermistor temperature input, or high or low voltage input<br></br>
+• 30 - 0-5V Sensor Inputs – Configures any 0-5V sensor as well as some can be used as switched high or low inputs<br></br>
+• 4 - Speed Inputs – Can be configured as a digital (square wave) input or an inductive input<br></br>
+• 20 - 12v PWM Outputs – Can be configured as PWM or switched 12V outputs. Rated at 2A maximum<br></br>
+• 16 - Ground PWM Outputs – Can be configured as PWM or switched ground outputs. Rated at 2A maximum<br></br>
+• All inputs and outputs are programmed using innovative new “Pin Mapping” strategy that allows inputs and outputs to be pinned as desired by the user, allowing for inputs and outputs to not be “wasted” by non-used dedicated functions<br></br>
+• Configurable for: dual cooling fans (including brushless fans that require PWM signal), dual fuel pumps, AC inputs, basic TCC lockup, and multiple timing retard inputs<br></br>
+• User programmable caution and warning outputs for all sensors</b></p><br></br></section>
+
+<section id="ICF" class="main-section">
+<header id="ICF" class="h1"><b><u>Advanced Tuning ICF</u></b></header><br></br>
+<p id="p2"><b>
+  • Fully User Configurable tables, 1D, 2D, 1D Per Gear, 2D Per Gear<br></br>
+• Tables allow for virtually unlimited dimensional tuning of fuel, spark, boost, nitrous and more<br></br>
+• User can modift fuel, timing, boost, nirtrous, individual cylinder, ignition dwell, DBW, and more<br></br>
+• Parameters can be adjusted based on any input, sensor, or time.</br></p><br></br></section>
+
+<footer id="footer">
+  <p>® Copyright 2021 Holley Performance Products, Inc</p></footer>
+
+</div>
+</main>
+</body>
+</html>
