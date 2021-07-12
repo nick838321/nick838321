@@ -1,0 +1,338 @@
+#header {
+  position: fixed;
+  top: 50;
+  min-height: 50px;
+  display: flex;
+  margin-top: 0px;
+  z-index: 1;
+  background-color: blue;
+    border: 2px solid red;
+  opacity: 1.0
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  background-image: url('https://static2.hotcarsimages.com/wordpress/wp-content/uploads/2020/05/Plymouth-Satellite-Budget-Drag-Car.jpg');
+  opacity: 0.20;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media {
+  
+}
+
+body {
+  background-color:  #e6e6e6;
+}
+
+#content {
+  position: relative;
+  margin-top: 100px;
+}
+
+.navbar {
+background-color: ##e6e6e6 !important;
+display: fixed;
+min-height: 50px;
+width: 100%;
+top: 0;
+  background-color: gray;
+  opacity: 1.0;
+ 
+}
+
+#header-img {
+  width: 100%;
+}
+
+nav > ul {
+  width: 75vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  justify-content: space-evenly;
+  margin-left: 100px;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+  font-family: Helvetica, sans-serif;
+
+  font-size: 1.5em;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+  font-size: 1.5em;
+}
+
+a:hover, a:active {
+  background-color: #e33c30;
+}
+
+li {
+  list-style-type: none;
+}
+
+#nav-link {
+  margin-top: -50px;
+}
+
+.column {
+  float: left;
+  width: 18%;
+  padding-left: 260px;
+}
+
+.column2 {
+  float: left;
+  width: 18%;
+  padding-left: 190px;
+}
+
+#harness {
+  margin-left: -190px;
+  width: -10%;
+}
+
+#ecu2 {
+  height: 170px;
+  margin-left: 100px;
+  width: -10%;
+}
+
+#ijd {
+  margin-left: -190px;
+  height: 170px;
+}
+
+#dash {
+  height: 170px;
+  margin-left: -190px;
+}
+
+#v5 {
+  width: 15%;
+  margin-left: 400px;
+}
+
+#video {
+  margin-left: 350px;
+  width: 65%;
+  margin-bottom: 200px;
+  
+}
+
+#form {
+  margin-left: 800px;
+  margin-top: -25px;
+}
+
+#email {
+  text-align: center; 
+}
+
+#submit {
+  color: #c91616;
+}
+
+#ecu {
+  padding-right: 50px;
+}
+
+#h1 {
+  padding-top: 50px;
+  line-height: 3;
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+  color: #c91616;
+}
+
+#h2 {
+  font-family: Tahoma;
+  font-size: 2.0rem;
+  letter-spacing: 1.50px;
+}
+
+#p2 {
+  font-family: Garamond;
+  font-size: 1.25rem;
+}
+
+#h3 {
+  margin-top: -200px;
+  margin-left: 525px;
+  font-family: Courier New, sans-serif;
+  font-style: italic;
+  font-size: 2.0rem;
+  line-height: .1;
+}
+
+#h4 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 2.25rem;
+  font-family: Courier-new;
+  color: #c91616;
+}
+
+#features {
+  margin-left: 230px;
+  margin-right: 530px;
+  font-size: 1.05rem;
+}
+
+
+#body2 {
+  margin-top: 
+}
+
+.boxed {
+  width: 700px;
+  height: 200px;
+  text-align: left;
+  border: 2px solid red;
+  display: fixed;
+  padding-left: 20px;
+  margin-right: 600px;
+  margin-left: 125px;
+  margin-top: 325px;
+  background-color: gray;
+  opacity: .9;
+}
+
+#diagram {
+  margin-left: 1200px;
+  display: flex;
+  position: relative;
+  top: -205px;
+  width: 500px;
+  border: 3.5px solid;
+}
+
+#h5 {
+  margin-top: 75px;
+  margin-left: 380px;
+  width: 250px;
+  font-family: Georgia, serif;
+}
+
+#h6 {
+  margin-top: -352px;
+  margin-left: 665px;
+  width: 200px;
+  font-family: Georgia, serif;
+}
+
+#h7 {
+  margin-left: 1000px;
+  margin-top: -350px;
+  font-family: Georgia, serif;
+}
+
+#h8 {
+  margin-left: 1350px;
+  margin-top: -345px;
+  font-family: Georgia, serif;
+}
+
+#p4 {
+  margin-left: 345px;
+  width: 250px;
+  height: 100px;
+  font-family: Trebuchet MS;
+  margin-bottom: -10p
+}
+
+#p5 {
+  margin-left: 650px;
+  margin-bottom: px;
+  width: 250px;
+  font-family: Trebuchet MS;
+}
+
+#p6 {
+  width: 250px;
+  margin-left: 970px;
+  font-family: Trebuchet MS;
+}
+
+#p7 {
+  width: 250px;
+  margin-left: 1325px;
+  font-family: Trebuchet MS;
+}
+
+#hfinal {
+  margin-left: 800px;
+  margin-top: 100px;
+  font-size: 2rem;
+  font-family: Tahoma, sans-serif;
+  color: #c91616;
+  font-style: italic;
+}
+
+#pfinal {
+  font-family: Times New Roman;
+  text-align: center;
+  margin-top: -50px;
+  text-size: 1.5rem;
+}
+
+#price {
+  color: #c91616;
+  margin-left: 410px;
+  width: 200px;
+  height: 50px;
+  margin-top: 150px;
+  line-height: 0.8;
+  font-family: Verdana;
+}
+
+#price2 {
+  color: #c91616;
+  margin-left: 730px;
+  width: 200px;
+  height: 50px;
+  margin-top: 95px;
+  font-family: Verdana;
+}
+
+#price3 {
+  color: #c91616;
+  margin-left: 1050px;
+  width: 200px;
+  height: 50px;
+  margin-top: 0px;
+  line-height: 1.6;
+  font-family: Verdana;
+}
+
+#price4 {
+  color: #c91616;
+  margin-left: 1400px;
+  width: 200px;
+  height: 50px;
+  margin-top: 55px;
+  line-height: 1.4;
+  font-family: Verdana;
+}
+
+
+
+#final {
+  width: 25%;
+  margin-left: 750px;
+  margin-top: -250px;
+  margin-bottom: -50px;
+}
