@@ -1,0 +1,187 @@
+#title {
+  font-family: 'Georgia', serif;
+  text-align: center;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+#description {
+  line-height: 1.0;
+  font-family: Garamond, serif;
+  color: blue;
+  font-weight: bold;
+  font-size: 1.125rem;
+  text-align: center;
+}
+
+#img-pizza {
+  padding: 5px;
+  border-radius: 20%;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  background-image: url('https://digitalmarketing.blob.core.windows.net/10290/images/items/image475418.jpg');
+  opacity: 0.20;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#survey-form {
+  text-align: left;
+  margin-left: 500px;
+  line-height: 1.0;
+  
+}
+
+#name-label {
+  text-align: center;
+  color: blue;
+  font-size: 1.75rem;
+  line-height: 2;
+  margin-left: 400px;
+}
+
+input[type=name] {
+  width: 38%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-left: 200px;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+#email-label {
+  text-align: left;
+  color: blue;
+  line-height: 2.0;
+  font-size: 1.75rem;
+  margin-left: 400px;
+}
+
+input[type=email] {
+  width: 38%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-left: 200px;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+#number-label {
+  margin-left: 410px;
+  color: blue;
+  font-size: 1.75rem;
+}
+
+input[type=number] {
+  width: 35%;
+  padding: 12px 20px;
+  margin-left: 200px;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+#p2 {
+  font-family: Garamond, serif;
+  text-align: left;
+  margin-left: 150px;
+  line-height: 0;
+}
+
+#p3 {
+  font-family: Garamond, serif;
+  text-align: left;
+  margin-left: 150px;
+  line-height: 0;
+  margin-bottom: -8px;
+}
+
+#p4 {
+  font-family: Garamond, serif;
+  text-align: left;
+  margin-left: 88px;
+  line-height: 0;
+  margin-bottom: -8px;
+  padding-top: 50px;
+}
+
+#dropdown {
+  
+}
+
+.form-control {
+  width: 45%;
+  padding: 12px 20px;
+  border: 2px solid red;
+  border-radius: 4px;
+  margin-left: 155px;
+}
+
+#input-radio {
+  font-size: 30px;
+  padding: 20px 12px;
+  margin-left: 150px;
+  line-height: 1.5em;
+  
+}
+
+input[type=radio] {
+  transform: scale(1.5);
+  margin-right: 15px;
+}
+
+#input-checkbox {
+  font-size: 20px;
+}
+
+
+input[type=checkbox] {
+  margin-right: 10px;
+  margin-bottom: 5px;
+  margin-left: 350px;
+}
+
+#comments {
+  color: blue;
+  font-size: 20px;
+  margin-left: -78px;
+}
+
+#comments2 {
+  margin-left: -80px;
+}
+
+.input-textarea {
+  min-height: 120px;
+  width: 75%;
+  padding: 0.625rem;
+  resize: vertical;
+  margin-left: -100px;
+}
+
+#submit {
+  margin-left: -80px;
+  display: block;
+  width: 76.65%;
+  padding: 0.75rem;
+  background: green;
+  color: inherit;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
